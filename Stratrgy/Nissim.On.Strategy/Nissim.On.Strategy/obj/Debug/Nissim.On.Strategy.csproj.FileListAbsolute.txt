@@ -1,0 +1,7 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Stratrgy\Nissim.On.Strategy\Nissim.On.Strategy\bin\Debug\Image\Booldog.jpg
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Stratrgy\Nissim.On.Strategy\Nissim.On.Strategy\bin\Debug\Image\Pincher.jpeg
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Stratrgy\Nissim.On.Strategy\Nissim.On.Strategy\bin\Debug\Nissim.On.Strategy.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Stratrgy\Nissim.On.Strategy\Nissim.On.Strategy\obj\Debug\Nissim.On.Strategy.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Stratrgy\Nissim.On.Strategy\Nissim.On.Strategy\bin\Debug\Nissim.On.Strategy.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Stratrgy\Nissim.On.Strategy\Nissim.On.Strategy\bin\Debug\Nissim.On.Strategy.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Stratrgy\Nissim.On.Strategy\Nissim.On.Strategy\obj\Debug\Nissim.On.Strategy.exe
