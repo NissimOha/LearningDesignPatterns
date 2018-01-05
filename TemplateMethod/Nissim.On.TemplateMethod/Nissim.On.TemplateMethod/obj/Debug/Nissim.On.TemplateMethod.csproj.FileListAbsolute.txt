@@ -1,0 +1,7 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\TemplateMethod\Nissim.On.TemplateMethod\Nissim.On.TemplateMethod\bin\Debug\Nissim.On.TemplateMethod.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\TemplateMethod\Nissim.On.TemplateMethod\Nissim.On.TemplateMethod\bin\Debug\ThirdParty\Title.gif
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\TemplateMethod\Nissim.On.TemplateMethod\Nissim.On.TemplateMethod\bin\Debug\Nissim.On.TemplateMethod.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\TemplateMethod\Nissim.On.TemplateMethod\Nissim.On.TemplateMethod\bin\Debug\Nissim.On.TemplateMethod.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\TemplateMethod\Nissim.On.TemplateMethod\Nissim.On.TemplateMethod\obj\Debug\Nissim.On.TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\TemplateMethod\Nissim.On.TemplateMethod\Nissim.On.TemplateMethod\obj\Debug\Nissim.On.TemplateMethod.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\TemplateMethod\Nissim.On.TemplateMethod\Nissim.On.TemplateMethod\obj\Debug\Nissim.On.TemplateMethod.pdb
