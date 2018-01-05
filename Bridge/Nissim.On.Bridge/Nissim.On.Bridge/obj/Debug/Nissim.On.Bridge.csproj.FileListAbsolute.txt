@@ -1,0 +1,6 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Bridge\Nissim.On.Bridge\Nissim.On.Bridge\bin\Debug\Nissim.On.Bridge.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Bridge\Nissim.On.Bridge\Nissim.On.Bridge\bin\Debug\Nissim.On.Bridge.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Bridge\Nissim.On.Bridge\Nissim.On.Bridge\bin\Debug\Nissim.On.Bridge.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Bridge\Nissim.On.Bridge\Nissim.On.Bridge\obj\Debug\Nissim.On.Bridge.csprojResolveAssemblyReference.cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Bridge\Nissim.On.Bridge\Nissim.On.Bridge\obj\Debug\Nissim.On.Bridge.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Bridge\Nissim.On.Bridge\Nissim.On.Bridge\obj\Debug\Nissim.On.Bridge.pdb
