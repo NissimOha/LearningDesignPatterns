@@ -1,0 +1,13 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\bin\Debug\Nissim.On.Command.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\bin\Debug\Nissim.On.Command.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\bin\Debug\Nissim.On.Command.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\obj\Debug\Nissim.On.Command.Properties.Resources.resources
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\obj\Debug\Nissim.On.Command.csproj.GenerateResource.Cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\obj\Debug\Nissim.On.Command.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\obj\Debug\Nissim.On.Command.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\obj\Debug\Nissim.On.Command.csprojResolveAssemblyReference.cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\obj\Debug\Nissim.On.Command.smartHomeController.resources
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\bin\Debug\Nissim.On.Command.Ifc.dll
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\bin\Debug\Nissim.On.Command.Ifc.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\bin\Debug\Nissim.On.Command.BL.dll
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command\bin\Debug\Nissim.On.Command.BL.pdb

@@ -1,0 +1,5 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command.Ifc\bin\Debug\Nissim.On.Command.Ifc.dll
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command.Ifc\bin\Debug\Nissim.On.Command.Ifc.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command.Ifc\obj\Debug\Nissim.On.Command.Ifc.dll
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command.Ifc\obj\Debug\Nissim.On.Command.Ifc.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Command\Nissim.On.Command\Nissim.On.Command.Ifc\obj\Debug\Nissim.On.Command.Ifc.csprojResolveAssemblyReference.cache
