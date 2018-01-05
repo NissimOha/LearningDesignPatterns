@@ -1,0 +1,6 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Iterator\Nissim.On.Iterator\Nissim.On.Iterator\bin\Debug\Nissim.On.Iterator.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Iterator\Nissim.On.Iterator\Nissim.On.Iterator\bin\Debug\Nissim.On.Iterator.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Iterator\Nissim.On.Iterator\Nissim.On.Iterator\bin\Debug\Nissim.On.Iterator.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Iterator\Nissim.On.Iterator\Nissim.On.Iterator\obj\Debug\Nissim.On.Iterator.csprojResolveAssemblyReference.cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Iterator\Nissim.On.Iterator\Nissim.On.Iterator\obj\Debug\Nissim.On.Iterator.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Iterator\Nissim.On.Iterator\Nissim.On.Iterator\obj\Debug\Nissim.On.Iterator.pdb
