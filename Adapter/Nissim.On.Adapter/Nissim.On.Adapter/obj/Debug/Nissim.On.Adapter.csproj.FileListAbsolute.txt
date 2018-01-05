@@ -1,0 +1,6 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Adapter\Nissim.On.Adapter\Nissim.On.Adapter\bin\Debug\Nissim.On.Adapter.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Adapter\Nissim.On.Adapter\Nissim.On.Adapter\bin\Debug\Nissim.On.Adapter.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Adapter\Nissim.On.Adapter\Nissim.On.Adapter\bin\Debug\Nissim.On.Adapter.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Adapter\Nissim.On.Adapter\Nissim.On.Adapter\obj\Debug\Nissim.On.Adapter.csprojResolveAssemblyReference.cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Adapter\Nissim.On.Adapter\Nissim.On.Adapter\obj\Debug\Nissim.On.Adapter.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Adapter\Nissim.On.Adapter\Nissim.On.Adapter\obj\Debug\Nissim.On.Adapter.pdb
