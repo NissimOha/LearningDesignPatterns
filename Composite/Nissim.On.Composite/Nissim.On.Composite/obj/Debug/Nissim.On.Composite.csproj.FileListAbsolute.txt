@@ -1,0 +1,6 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Composite\Nissim.On.Composite\Nissim.On.Composite\bin\Debug\Nissim.On.Composite.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Composite\Nissim.On.Composite\Nissim.On.Composite\bin\Debug\Nissim.On.Composite.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Composite\Nissim.On.Composite\Nissim.On.Composite\bin\Debug\Nissim.On.Composite.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Composite\Nissim.On.Composite\Nissim.On.Composite\obj\Debug\Nissim.On.Composite.csprojResolveAssemblyReference.cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Composite\Nissim.On.Composite\Nissim.On.Composite\obj\Debug\Nissim.On.Composite.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Composite\Nissim.On.Composite\Nissim.On.Composite\obj\Debug\Nissim.On.Composite.pdb
