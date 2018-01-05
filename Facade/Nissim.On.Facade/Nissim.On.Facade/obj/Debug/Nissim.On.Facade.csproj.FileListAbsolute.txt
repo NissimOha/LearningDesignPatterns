@@ -1,0 +1,6 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Facade\Nissim.On.Facade\Nissim.On.Facade\bin\Debug\Nissim.On.Facade.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Facade\Nissim.On.Facade\Nissim.On.Facade\bin\Debug\Nissim.On.Facade.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Facade\Nissim.On.Facade\Nissim.On.Facade\bin\Debug\Nissim.On.Facade.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Facade\Nissim.On.Facade\Nissim.On.Facade\obj\Debug\Nissim.On.Facade.csprojResolveAssemblyReference.cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Facade\Nissim.On.Facade\Nissim.On.Facade\obj\Debug\Nissim.On.Facade.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Facade\Nissim.On.Facade\Nissim.On.Facade\obj\Debug\Nissim.On.Facade.pdb
