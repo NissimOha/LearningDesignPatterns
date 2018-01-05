@@ -1,0 +1,6 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Singleton\Nissim.On.Singleton\Nissim.On.Singleton\bin\Debug\Nissim.On.Singleton.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Singleton\Nissim.On.Singleton\Nissim.On.Singleton\bin\Debug\Nissim.On.Singleton.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Singleton\Nissim.On.Singleton\Nissim.On.Singleton\bin\Debug\Nissim.On.Singleton.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Singleton\Nissim.On.Singleton\Nissim.On.Singleton\obj\Debug\Nissim.On.Singleton.csprojResolveAssemblyReference.cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Singleton\Nissim.On.Singleton\Nissim.On.Singleton\obj\Debug\Nissim.On.Singleton.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Singleton\Nissim.On.Singleton\Nissim.On.Singleton\obj\Debug\Nissim.On.Singleton.pdb
