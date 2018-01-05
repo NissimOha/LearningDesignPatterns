@@ -1,0 +1,5 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Factory\Nissim.On.Factory\Nissim.On.Factory\bin\Debug\Nissim.On.Factory.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Factory\Nissim.On.Factory\Nissim.On.Factory\bin\Debug\Nissim.On.Factory.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Factory\Nissim.On.Factory\Nissim.On.Factory\bin\Debug\Nissim.On.Factory.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Factory\Nissim.On.Factory\Nissim.On.Factory\obj\Debug\Nissim.On.Factory.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Factory\Nissim.On.Factory\Nissim.On.Factory\obj\Debug\Nissim.On.Factory.pdb
