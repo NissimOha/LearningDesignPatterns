@@ -1,0 +1,6 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Proxy\Nissim.On.Proxy\Nissim.On.Proxy\bin\Debug\Nissim.On.Proxy.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Proxy\Nissim.On.Proxy\Nissim.On.Proxy\bin\Debug\Nissim.On.Proxy.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Proxy\Nissim.On.Proxy\Nissim.On.Proxy\bin\Debug\Nissim.On.Proxy.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Proxy\Nissim.On.Proxy\Nissim.On.Proxy\obj\Debug\Nissim.On.Proxy.csprojResolveAssemblyReference.cache
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Proxy\Nissim.On.Proxy\Nissim.On.Proxy\obj\Debug\Nissim.On.Proxy.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Proxy\Nissim.On.Proxy\Nissim.On.Proxy\obj\Debug\Nissim.On.Proxy.pdb
