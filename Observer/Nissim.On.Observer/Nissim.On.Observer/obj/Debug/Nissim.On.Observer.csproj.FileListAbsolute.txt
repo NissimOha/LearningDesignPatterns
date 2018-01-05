@@ -1,0 +1,5 @@
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Observer\Nissim.On.Observer\Nissim.On.Observer\bin\Debug\Nissim.On.Observer.exe.config
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Observer\Nissim.On.Observer\Nissim.On.Observer\bin\Debug\Nissim.On.Observer.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Observer\Nissim.On.Observer\Nissim.On.Observer\bin\Debug\Nissim.On.Observer.pdb
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Observer\Nissim.On.Observer\Nissim.On.Observer\obj\Debug\Nissim.On.Observer.exe
+C:\Users\NISSIMOHAYON\Documents\Proggreming\design patterns\Observer\Nissim.On.Observer\Nissim.On.Observer\obj\Debug\Nissim.On.Observer.pdb
